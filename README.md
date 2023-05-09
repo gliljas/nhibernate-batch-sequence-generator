@@ -1,0 +1,1 @@
+# nhibernate-batch-sequence-generator
